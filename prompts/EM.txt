@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: ENMESHMENT / UNDEVELOPED SELF (EM)
+
+Description:
+Excessive emotional involvement and closeness with significant others (often parents), at the expense of individuation or normal social development. May include feelings of being smothered or fused with others and an insufficient individual identity.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: enmeshment, undeveloped
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

@@ -1,0 +1,15 @@
+You are helping build a psychological dataset.
+
+Schema: EMOTIONAL DEPRIVATION (ED)
+
+Description:
+Expectation that one's desire for a normal degree of emotional support will not be adequately met by others. The three major forms of deprivation are: A. Deprivation of Nurturance: Absence of attention, affection, warmth, or companionship. B. Deprivation of Empathy: Absence of understanding, listening, self-disclosure, or mutual sharing of feelings from others. C. Deprivation of Protection: Absence of strength, direction, or guidance from others.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+Each sentence should sound like a person sharing their internal thoughts with a therapist.
+
+Avoid using the following words: deprivation
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: DEPENDENCE / INCOMPETENCE (DI)
+
+Description:
+Belief that one is unable to handle one's everyday responsibilities in a competent manner, without considerable help from others. Often presents as helplessness.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: dependence,incompetent
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: PUNITIVENESS (PU)
+
+Description:
+The belief that people should be harshly punished for mistakes. Often involves being intolerant, punitive, and impatient with oneself or others.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: punitive, punish
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

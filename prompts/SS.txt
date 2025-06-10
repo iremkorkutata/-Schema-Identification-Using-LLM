@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: SELF-SACRIFICE (SS)
+
+Description:
+Excessive focus on meeting the needs of others at the expense of one’s own gratification, often to prevent causing pain or avoid guilt.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: sacrifice
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

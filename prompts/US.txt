@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: UNRELENTING STANDARDS / HYPERCRITICALNESS (US)
+
+Description:
+The belief that one must meet very high internalized standards to avoid criticism, resulting in pressure, self-criticism, and difficulty relaxing.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: critic, standard, unrelenting
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

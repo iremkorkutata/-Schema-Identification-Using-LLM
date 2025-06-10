@@ -1,0 +1,15 @@
+You are helping build a psychological dataset.
+
+Schema: ABANDONMENT / INSTABILITY (AB)
+
+Description:
+The perceived instability or unreliability of those available for support and connection. Involves the sense that significant others will not be able to continue providing emotional support, connection, strength, or practical protection because they are emotionally unstable and unpredictable (e.g., angry outbursts), unreliable, or erratically present; because they will die imminently; or because they will abandon the patient in favor of someone better.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+Each sentence should sound like a person sharing their internal thoughts with a therapist.
+
+Avoid using the following words: abandonment, instability 
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

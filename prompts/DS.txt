@@ -1,0 +1,13 @@
+You are helping build a psychological dataset.
+
+Schema: DEFECTIVENESS / SHAME (DS)
+
+Description:
+The feeling that one is defective, bad, unwanted, inferior, or invalid in important respects; or that one would be unlovable to significant others if exposed. May involve hypersensitivity to criticism, rejection, and blame; self-consciousness, comparisons, and insecurity around others; or a sense of shame regarding one's perceived flaws.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+Avoid using the following words: shame, defect
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

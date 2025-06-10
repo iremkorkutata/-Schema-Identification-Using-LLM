@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: APPROVAL-SEEKING / RECOGNITION-SEEKING (AS)
+
+Description:
+Excessive emphasis on gaining approval, recognition, or attention from others at the expense of developing a true sense of self.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: approval, recognition, seeking
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

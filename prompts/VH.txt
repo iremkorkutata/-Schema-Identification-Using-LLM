@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: VULNERABILITY TO HARM OR ILLNESS (VH)
+
+Description:
+Exaggerated fear that imminent catastrophe will strike at any time and that one will be unable to prevent it. Fears include medical, emotional, or external catastrophes (e.g., heart attacks, going crazy, or natural disasters).
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: harm, illness, vulnerability
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

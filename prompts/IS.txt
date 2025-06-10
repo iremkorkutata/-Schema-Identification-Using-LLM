@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: INSUFFICIENT SELF-CONTROL / SELF-DISCIPLINE (IS)
+
+Description:
+Difficulty or refusal to exercise sufficient self-control or frustration tolerance to achieve personal goals. In milder form, it shows as an excessive emphasis on avoiding discomfort.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: control, discipline, insufficient
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

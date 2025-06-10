@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: FAILURE (FA)
+
+Description:
+The belief that one has failed, will inevitably fail, or is fundamentally inadequate relative to peers, especially in achievement areas. Often involves feelings of being inept or untalented.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: failure, fail
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

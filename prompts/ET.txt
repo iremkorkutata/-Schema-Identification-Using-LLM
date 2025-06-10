@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: ENTITLEMENT / GRANDIOSITY (ET)
+
+Description:
+The belief that one is superior to others, entitled to special rights or privileges, and not bound by the rules that govern normal social interaction. May involve excessive competitiveness or domination.
+
+Task:
+Generate 30 unique, expressive, first-person sentences that reflect this schema. The tone can be assertive or self-centered.
+
+Avoid using the following words: entitlement, grandiosity
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: SOCIAL ISOLATION / ALIENATION (SI)
+
+Description:
+The feeling that one is isolated from the rest of the world, different from other people, and/or not part of any group or community.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: isolation, alienation
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

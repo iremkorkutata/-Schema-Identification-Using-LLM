@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: SUBJUGATION (SB)
+
+Description:
+Excessive surrendering of control to others to avoid anger, retaliation, or abandonment. Involves suppressing personal needs and emotions.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: subjugation
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]

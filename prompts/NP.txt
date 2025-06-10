@@ -1,0 +1,14 @@
+You are helping build a psychological dataset.
+
+Schema: NEGATIVITY / PESSIMISM (NP)
+
+Description:
+A pervasive focus on the negative aspects of life while minimizing or neglecting the positive. Includes chronic worry and fear of mistakes.
+
+Task:
+Generate 30 unique, expressive, emotional, first-person sentences that reflect this schema.
+
+Avoid using the following words: negative, pessimist
+
+Return your response as a valid JSON list like:
+["Sentence 1", ..., "Sentence 30"]
